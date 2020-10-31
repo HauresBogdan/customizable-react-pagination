@@ -1,0 +1,33 @@
+{
+  "name": "customizable-react-pagination",
+  "version": "1.0.0",
+  "description": "A simple lightweight customizable react component for pagination. With no other dependencies.",
+  "main": "pagination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HauresBogdan/customizable-react-pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "paginator",
+    "paginate",
+    "page",
+    "simple",
+    "lightweight",
+    "react",
+    "customizable",
+    "pages",
+    "componennt",
+    "hooks",
+    "functional"
+  ],
+  "author": "Haures-Mihai-Bogdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HauresBogdan/customizable-react-pagination/issues"
+  },
+  "homepage": "https://github.com/HauresBogdan/customizable-react-pagination#readme"
+}
