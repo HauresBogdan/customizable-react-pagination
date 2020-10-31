@@ -13,6 +13,10 @@
 ```
 $ npm install customizable-react-pagination
 ```
+
+**Online Example**
+https://codesandbox.io/s/haures-mihai-bogdan-vugel?file=/src/App.js
+
 ## Usage
 
 ```javascript

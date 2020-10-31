@@ -1,6 +1,6 @@
 {
   "name": "customizable-react-pagination",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple lightweight customizable react component for pagination. With no other dependencies.",
   "main": "./lib/pagination.js",
   "scripts": {
