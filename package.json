@@ -2,7 +2,7 @@
   "name": "customizable-react-pagination",
   "version": "1.0.0",
   "description": "A simple lightweight customizable react component for pagination. With no other dependencies.",
-  "main": "./dist/pagination.js",
+  "main": "./lib/pagination.js",
   "scripts": {
     "build": "webpack"
   },
@@ -31,7 +31,6 @@
   },
   "homepage": "https://github.com/HauresBogdan/customizable-react-pagination#readme",
   "peerDependencies": {
-    "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
@@ -42,7 +41,6 @@
     "babel-preset-react": "^6.16.0",
     "babel-preset-stage-0": "^6.24.1",
     "path": "^0.12.7",
-    "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "webpack": "^4.5.0",
