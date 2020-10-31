@@ -17,7 +17,7 @@ $ npm install customizable-react-pagination
 
 ```javascript
 import "./App.css";
-import { useState } from "react";
+import React,{ useState } from "react";
 import Pagination from 'customizable-react-pagination';
 
 function App() {
